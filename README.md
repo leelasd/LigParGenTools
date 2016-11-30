@@ -16,5 +16,5 @@ Most of the FF such as AMBER, OPLS-AA and CHARMM are built using bottom up appro
  ```
  This creates a box of 125 Octanol molecules randomly oriented and needs to be minimized and equilibrated until density matches the experimental value. 
 
-<img src="https://github.com/leelasd/LigParGenTools/blob/master/Pliq_BOX.jpg" width="100" height="100" />
+<img src="https://github.com/leelasd/LigParGenTools/blob/master/Pliq_BOX.jpg" width="200" height="200" />
 
