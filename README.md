@@ -15,3 +15,5 @@ Most of the FF such as AMBER, OPLS-AA and CHARMM are built using bottom up appro
  python CustomSolBox.py -p OCT.pdb -b 65 -r OCT
  ```
  This creates a box of 125 Octanol molecules randomly oriented and needs to be minimized and equilibrated until density matches the experimental value. 
+
+![Octanol Box](https://github.com/leelasd/LigParGenTools/blob/master/Pliq_BOX.jpg)
