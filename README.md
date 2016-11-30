@@ -18,3 +18,8 @@ Most of the FF such as AMBER, OPLS-AA and CHARMM are built using bottom up appro
 
 <img style="float: right;" src="https://github.com/leelasd/LigParGenTools/blob/master/Pliq_BOX.jpg" width="300" height="300" />
 
+ 4. Minimize the box and do  NPT Equibration for 2 nano seconds to get a good box. 
+ 
+ ``` bash 
+ python PLIQ_OPENMM.py 
+ ```
